@@ -1,0 +1,19 @@
+com/gorkemgok/hastatakipsistemi/BuildConfig.java
+ com.gorkemgok.hastatakipsistemi.BuildConfig
+com/gorkemgok/hastatakipsistemi/tercihler.java
+ com.gorkemgok.hastatakipsistemi.tercihler
+com/gorkemgok/hastatakipsistemi/anaProgram.java
+ com.gorkemgok.hastatakipsistemi.anaProgram
+ com.gorkemgok.hastatakipsistemi.anaProgram$1
+ com.gorkemgok.hastatakipsistemi.anaProgram$2
+ com.gorkemgok.hastatakipsistemi.anaProgram$3
+ com.gorkemgok.hastatakipsistemi.anaProgram$MyAdapter
+ com.gorkemgok.hastatakipsistemi.anaProgram$MyAdapter$ViewHolder
+ com.gorkemgok.hastatakipsistemi.anaProgram$SearchDevices
+com/gorkemgok/hastatakipsistemi/veriEkrani.java
+ com.gorkemgok.hastatakipsistemi.veriEkrani
+ com.gorkemgok.hastatakipsistemi.veriEkrani$1
+ com.gorkemgok.hastatakipsistemi.veriEkrani$ConnectBT
+ com.gorkemgok.hastatakipsistemi.veriEkrani$DisConnectBT
+ com.gorkemgok.hastatakipsistemi.veriEkrani$ReadInput
+ com.gorkemgok.hastatakipsistemi.veriEkrani$ReadInput$1
