@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hasta_Takip_Sistemi.iml" filepath="$PROJECT_DIR$/.idea/modules/Hasta_Takip_Sistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hasta_Takip_Sistemi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hasta_Takip_Sistemi.app.iml" />
+    </modules>
+  </component>
+</project>
